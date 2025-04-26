@@ -20,3 +20,4 @@ jobs:
         uv pip install . --system
     - name: Run ETL script
       run: python etl.py
+      
